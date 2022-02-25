@@ -1,0 +1,19 @@
+h1,h2,p {color: rgb(97, 96, 96); text-align: center;}
+
+/*
+h1 {color: crimson; text-align: center;}
+h2 {color: dimgray; text-align: center;}
+p {color: rgb(12, 11, 11); text-align: center;}*/
+
+/*
+*{margin: 5px; padding: 0; color:crimson;}
+
+h1{color:aqua; font-size: 40px;}
+p{color: green; font-size: 25px;}
+
+input[type="text"]{width: 200px; background-color: rgb(248, 245, 242); height: 40px; border:none;}
+input[type="email"]{width: 200px; background-color: rgb(248, 245, 242); height: 40px; border:none;}
+input[type="submit"]{width: 50px; background-color: rgb(159, 231, 77); height: 35px; border:none; cursor: pointer;*/ color: blueviolet;}
+
+/* Intro 01
+h1 {color:blue; font-size: 80px; font-family:serif;}*/
