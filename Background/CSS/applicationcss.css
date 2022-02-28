@@ -1,9 +1,13 @@
+body{background-image:url(../img/ceu-azul.jpeg); background-repeat: no-repeat; background-attachment:fixed; background-size:100% 100%;
+    background: url(../img/ceu-azul.jpeg) center center/ 100% 100% no-repeat fixed; 
+}
+/*Intro 17
 #example {
     width:200px; height:200px; background-color: red; transition: all 2s linear;
 }
 #example:hover {
     width:350px; height: 350px; background-color: green;
-}
+}*/
 
 
 
