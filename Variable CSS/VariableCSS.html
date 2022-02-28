@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <title>var()</title>
+    <meta charset="utf-8">
+
+    <style>
+    :root {
+        --bg-color: blue;
+        --color-of-text: #fff;
+        --spacing: 20px;
+    }
+
+    :root {
+        --bg-color-div2: green;
+        --color-of-text-div2: #fff;
+        --spacing-div2:20px
+    }
+
+    :root {
+        --bg-color-div3:red;
+        --color-of-text-div3: #fff;
+        --spacing-div3: 20px
+    }
+
+    #div1 {background-color: var(--bg-color);
+    color: var(--color-of-text);
+    padding: var(--spacing);}
+
+    #div2 {background-color: var(--bg-color-div2);
+        color: var(--color-of-text-div2);
+        padding: var(--spacing-div2);
+    }
+
+    #div3 {background-color: var(--bg-color-div3);
+        color: var(--color-of-text-div3);
+        padding: var(--spacing-div3);
+    }
+
+    </style>
+
+</head>
+
+<body>
+
+    <div id="div1">
+       <p> A peep at some distant orb has power to raise and purify our thoughts like a strain of sacred music, or a noble
+        picture, or a passage from the grander poets. It always does one good.</p>
+    </div>
+
+    <div id="div2">
+        <p>A peep at some distant orb has power to raise and purify our thoughts like a strain of sacred music, or a noble
+            picture, or a passage from the grander poets. It always does one good.</p>
+    </div>
+
+    <div id="div3">
+        <p>A peep at some distant orb has power to raise and purify our thoughts like a strain of sacred music, or a noble
+            picture, or a passage from the grander poets. It always does one good.</p>
+    </div>
+
+</body>
+
+</html>
