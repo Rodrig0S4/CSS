@@ -1,0 +1,141 @@
+#base {
+    background-color: darkgray; width: 600px; height: 600px;
+}
+
+#left {
+    background-color: aqua; width: 300px; height: 300px; float: left;
+}
+
+#right {
+    background-color: cornflowerblue; width: 300px; height: 300px; float: right;
+}
+
+
+
+
+/*Intro 13
+#colors{
+    width: 200px; height: 200px; background: radial-gradient(red,green); 
+}
+
+#colors{
+    width: 200px; height: 200px; background: linear-gradient(45deg,rgba(255,0,0,0),red,blue, green); 
+}
+background: linear-gradient(to right,red,blue) - all directions to right, to left, to down, to top
+to top left, to top right, Angulars forms linear-gradient(80deg, 45deg) 
+
+#colors{
+    width: 200px; height: 200px; background-color:rgb(238, 143, 65); 
+}*/
+
+
+/*Intro 12
+*{font-size: 100%;}
+
+@font-face {
+   font-family: open_sans;
+   src: url(opensans-extrabolditalic-webfont.woff); 
+}
+
+p{
+    font-family: 'Open Sans', sans-serif; font-size: 1.2rem;
+}*/
+
+
+
+/*Intro 11
+*{font-size: 100%;}
+p {
+    font-family: Times, "Times New Roman", serif; font-size: 1em;
+}
+font-variant: small-caps;
+ font-style: oblique
+ font-size: 1em
+ font-weight: bold
+*/
+
+
+
+/*Intro 10
+#block {
+    background-color: green; width: 300px; height: 150px; border-top-left-radius: 20px; 
+}
+border-bottom-left-radius: 20px
+border-bottom-right-radius: 20px
+border-top-left-radius: 20px
+border-top-right-radius:20px
+border-radius: 20px 40px 80px 90px*/
+
+
+
+/*Intro 09
+#container {background-color: red; width: 300px; height: 70px; overflow:auto;
+}
+
+#container p {
+    opacity: 50%;
+}*/
+
+
+
+/*Intro 08
+*{box-sizing: border-box;}
+#container {
+    background-color: red; width: 300px; padding: 20px; box-sizing: border-box; box-shadow: 10px 10px 5px green;
+}*/
+
+
+
+/*Intro 07
+p {color: red; text-align:justify; text-indent: 20px; direction: ltr; letter-spacing: normal; word-spacing:3px;}
+h1 {text-align:left; text-decoration:underline; text-shadow: 1px 3px red;}
+h2 {text-align: right; text-decoration: overline;}
+h3 {text-align: center; text-decoration: line-through;}*/
+
+
+
+/*Intro 06
+#example {background-color: green; color: fff; width: 500px; height: 200px; padding:10px 20px 30px 30px
+}
+#example2 {background-color: rgb(40, 143, 146); color: fff; width: 500px; margin: 20px 30px 20px 40px;
+}*/
+/*#content {
+ min-height: 20px; min-width: 500px; background-color:rgb(51, 221, 51); color:#fff; padding: 20px;
+}*/
+
+
+
+/*Intro 05
+.main-text  {
+    color: red; text-align: center;
+}
+.back-main {
+    background-color: rgb(103, 187, 187); padding: 20px;
+}*/
+
+
+
+/*Intro 04
+h1,h2,p {color: rgb(97, 96, 96); text-align: center;}
+h1 {color: crimson; text-align: center;}
+h2 {color: dimgray; text-align: center;}
+p {color: rgb(12, 11, 11); text-align: center;}
+
+
+
+Intro 03
+*{margin: 5px; padding: 0; color:crimson;}
+h1{color:aqua; font-size: 40px;}
+p{color: green; font-size: 25px;}
+
+
+
+Intro 02
+input[type="text"]{width: 200px; background-color: rgb(248, 245, 242); height: 40px; border:none;}
+input[type="email"]{width: 200px; background-color: rgb(248, 245, 242); height: 40px; border:none;}
+input[type="submit"]{width: 50px; background-color: rgb(159, 231, 77); height: 35px; border:none; cursor: pointer; color: blueviolet;}
+
+
+
+Intro 01
+h1 {color:blue; font-size: 80px; font-family:serif;}*/
